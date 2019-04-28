@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+    <test name="Test">
+        <classes>
+            <class name="test01"/>
+            <class name="drivertest1"/>
+            <class name="IeTest"/>
+            <class name="FirefoxdriverTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
